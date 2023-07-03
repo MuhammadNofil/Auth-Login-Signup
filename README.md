@@ -5,8 +5,10 @@ this is an simple AUTH module for login and signup using express JS Mongoose Bcr
 2. place your mongodb URL in the env to connect your databse
 3. you can change the port
 4. run the starting command
-# Start Command 
+## Start Command
+```
 npm run dev
+```
 # Endpoint 
 1. http://localhost:8000/auth/signup
 2. http://localhost:8000/auth/login
